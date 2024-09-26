@@ -1,0 +1,16 @@
+results/
+data/
+skorch_cp/
+checkpoints/
+__pycache__/
+lib/
+submitit_logs/
+trash/
+multirun/
+outputs/
+#configs/
+
+*.csv
+*.pt
+*.pkl
+*.pyc
